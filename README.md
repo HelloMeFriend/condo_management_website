@@ -25,6 +25,6 @@ data class ReadingTime(
 ```
 a) The inputs for this function are: resources, [hours, minutes, and isContinue] --> global variables <br />
 b) <br />
-   i) The paritions are [resources is null] and [resources isn't null]    <br />
+	*i) The paritions are [resources is null] and [resources isn't null]    <br />
 Vithujanan Vigneswaran - 40157822<br />
 Jackson Jean - 23507416
